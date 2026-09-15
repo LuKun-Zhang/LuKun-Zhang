@@ -1,7 +1,7 @@
-# Hi there 👋, I'm LuKun Zhang
+<img src="assets/banner.svg" alt="LuKun Zhang — cross-domain deepfake detection, Beijing Jiaotong University" width="880">
 
-Researcher at **Beijing Jiaotong University** — focused on **deepfake detection** and
-**traffic & air-transport simulation software**.
+Hi there 👋 — I'm a researcher at **Beijing Jiaotong University**, working on **deepfake detection**
+and **traffic & air-transport simulation software**.
 
 ### 🔬 Research Directions
 
